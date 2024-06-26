@@ -1,0 +1,11 @@
+{
+    "domain": "example.com",
+    "dnspod_secretid": "your_dnspod_secretid",
+    "dnspod_secretkey": "your_dnspod_secretkey",
+    "modify_a_record": true,
+    "modify_aaaa_record": true,
+    "a_record_line": "默认",
+    "aaaa_record_line": "默认",
+    "ipv4_method": 1,
+    "ipv4_domain": "visa.cn"
+}
